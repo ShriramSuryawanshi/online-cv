@@ -57,7 +57,7 @@ education:
         
           - GPA: 3.89
           - Courses:
-                        - Programming for the Web
+                        - Programming for the Web \n
                         - Game Development for Mobile Platforms 
 
     - degree: B.Tech. in Computer Engineering
