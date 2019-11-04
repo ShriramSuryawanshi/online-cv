@@ -83,10 +83,10 @@ experiences:
         mission to help pharmacies optimize outcomes, whether it’s patient, process, or technology-related.<br>
         Working on Software System which pull data from existing Pharmacy Managment Software Systems, and auotomate prescriptions filling, collating and shipping process.
           
-          - Responsibilities:
+          - <b>Responsibilities:</b><br>
                     - Designed and developed RDLC reports and APIs in VB.NET for software interface of robotic prescription dispensing system
-                    - Performed impact analysis and proposed new architecture to merge two different Pharmacy Software Solutions
-                    - Assisted migration from Monolithic Architecture to Component Based Architecture
+                    <br>- Performed impact analysis and proposed new architecture to merge two different Pharmacy Software Solutions
+                    <br>- Assisted migration from Monolithic Architecture to Component Based Architecture
                     
           - Technologies Used: VB.NET, VB6, SQL, PL/SQL 
           - Tools Used: Visual Studio, MS SQL Server, SQL Developer
