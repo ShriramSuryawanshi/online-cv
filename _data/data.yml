@@ -89,7 +89,7 @@ experiences:
           - Validated newly designed Web Services to ensure successful migration of legacy system to Genesis API
           - Built Selenium scripts to set up test data conditions using Web User Interface
           - Automated test scripts using SoapUI Pro to validate REST Web Services' new and exisiting functionalites
-          - Validated updates made by the Web Service in databse using SoaupUI Pro, and on Web User Interface with Selenium scripts
+          - Validated updates made by the Web Service in databse using SoaupUI Pro, and on Web User Interface with Selenium
           - Built One-Touch Automation Framework using SoapUI Pro and Selenium (CICD)
           - Lead team of 6 associates
           - <b>Technologies:</b> Java, REST API Testing, SQL, PL/SQL
