@@ -130,7 +130,7 @@ projects:
       List of Academic Projects
 
     assignments:
-      - title: Mobile Application: TimeTracker
+      - title: TimeTracker (Mobile Application)
         link: "#https://github.com/ShriramSuryawanshi/Android-TimeTracker"
         tagline: " application which will help you track down how you spend your each day, on which activity you are spending your most of the time and how productive your day was."
 
