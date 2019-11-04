@@ -56,7 +56,7 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: MS in Computer Science
+    - degree: M.S. in Computer Science
       university: Binghamton University, SUNY
       time: Jan 2018 - Dec 2019
       details: |
@@ -65,7 +65,7 @@ education:
           - Programming for the Web
           - Bullet point
 
-    - degree: B.Tech in Computer Engineering
+    - degree: B.Tech. in Computer Engineering
       university: Dr. B. A. T. University, Lonere, India
       time: Jun 2008 - May 2012
       details: |
@@ -96,9 +96,9 @@ experiences:
           - Bullet point
           - Bullet point
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Test Analyst (Lead)
+      time: July 2017 - Dec 2018
+      company: Infosys Limited, Pune, India
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -109,9 +109,9 @@ experiences:
           - Bullet point
           - Bullet point
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Test Analyst
+      time: Dec 2012 - Jun 2017
+      company: Coginzant Technology Solutions, Pune, India
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
