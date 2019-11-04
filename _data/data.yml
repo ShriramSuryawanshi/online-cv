@@ -131,7 +131,7 @@ projects:
 
     assignments:
       - title: TimeTracker (Mobile Application)
-        link: "#https://github.com/ShriramSuryawanshi/Android-TimeTracker"
+        link: "https://github.com/ShriramSuryawanshi/Android-TimeTracker"
         tagline: "Application which will help you track down how you spend your each day, on which activity you are spending your most of the time and how productive your day was."
 
       - title: GraphGenerator (Mobile Application)
