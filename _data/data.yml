@@ -15,7 +15,7 @@ sidebar:
     email: shriram.3a@gmail.com
     phone: (607) 304-0057
     website:  #do not add http://
-    linkedin: shriram-suryawanshi/
+    linkedin: shriram-suryawanshi
     github: ShriramSuryawanshi
     gitlab:
     bitbucket:
@@ -30,19 +30,6 @@ sidebar:
 
       - idiom: Hindi
         level: Native
-
-      - idiom: 
-        level: 
-
-    interests:
-      - item: 
-        link:
-
-      - item: 
-        link:
-
-      - item: 
-        link:
 
 career-profile:
     title: Career Profile
@@ -69,9 +56,9 @@ education:
           - Bullet point
           - Bullet point
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: B.Tech in Computer Engineering
+      university: Dr. B. A. T. University, Lonere, India
+      time: Jun 2008 - May 2012
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
