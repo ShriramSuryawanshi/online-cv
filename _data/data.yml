@@ -85,7 +85,7 @@ experiences:
       time: July 2017 - Dec 2018
       company: Infosys Limited, Pune, India
       details: |
-        Web Service Autoamtion Testing
+        Web Service Autoamtion
 
           - <b>Domain:</b> Healthcare
           - <b>Responsibilities:</b><br>
@@ -102,13 +102,30 @@ experiences:
       time: Dec 2012 - Jun 2017
       company: Coginzant Technology Solutions, Pune, India
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+       Web Service Autoamtion
 
+          - <b>Domain:</b> Healthcare
+          - <b>Responsibilities:</b><br>
+                    - Designed and developed RDLC reports and APIs for software interface of robotic prescription dispensing system                    
+                    - Performed impact analysis and proposed new architecture to merge two different Pharmacy Software Solutions
+                    <br>- Assisted migration from Monolithic Architecture to Component Based Architecture
+                    <br>- Created stored procedures to seperate data layer from application layer
+                    
+          - <b>Technologies:</b> Java, SOA and REST API Testing, SQL, PL/SQL
+          - <b>Tools:</b> SoapUI Pro, Oracle 11g, SQL Developer, Selenium Webdriver, TestNG, log4j, MS Excel VBA, Maven, Jenkins
           - Bullet point
+          
+      Web Service Autoamtion
+
+          - <b>Domain:</b> Healthcare
+          - <b>Responsibilities:</b><br>
+                    - Designed and developed RDLC reports and APIs for software interface of robotic prescription dispensing system                    
+                    - Performed impact analysis and proposed new architecture to merge two different Pharmacy Software Solutions
+                    <br>- Assisted migration from Monolithic Architecture to Component Based Architecture
+                    <br>- Created stored procedures to seperate data layer from application layer
+                    
+          - <b>Technologies:</b> Java, SOA and REST API Testing, SQL, PL/SQL
+          - <b>Tools:</b> SoapUI Pro, Oracle 11g, SQL Developer, Selenium Webdriver, TestNG, log4j, MS Excel VBA, Maven, Jenkins
           - Bullet point
 
 projects:
