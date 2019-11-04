@@ -83,36 +83,42 @@ experiences:
       company: Infosys Limited, Pune, India
       project: Web Services Automation
       details: |        
-        Web Services Automation
+        API Migration Testing
                     
           - <b>Domain:</b> Telecommunications           
           - Validated newly designed Web Services to ensure successful migration of legacy system to Genesis API
           - Built Selenium scripts to set up test data conditions using Web User Interface
           - Automated test scripts using SoapUI Pro to validate REST Web Services' new and exisiting functionalites
           - Validated updates made by the Web Service in databse using SoaupUI Pro, and on Web User Interface with Selenium scripts
-          - Built One-Touch Automation Framework using SoapUI Pro and Selennium
+          - Built One-Touch Automation Framework using SoapUI Pro and Selenium (CICD)
+          - Lead team of 6 associates
           - <b>Technologies:</b> Java, REST API Testing, SQL, PL/SQL
-          - <b>Tools:</b> SoapUI Pro, Selenium Webdriver, Oracle 11g, SQL Developer, TestNG, log4j, Maven, Jenkins, MS Excel VBA
+          - <b>Tools:</b> SoapUI Pro, Selenium Webdriver, Oracle 12c, SQL Developer, TestNG, log4j, Maven, Jenkins, MS Excel VBA
  
     - role: Test Analyst
       time: Dec 2012 - Jun 2017
       company: Coginzant Technology Soltuions, Pune, India
       project: Web Services Automation
       details: |        
-        Web Services Validations for Mobile and Internet Banking 
+        Web Services Testing for Mobile and Internet Banking 
                     
           - <b>Domain:</b> Banking and Financial Services           
-          - Validated newly designed Web Services to ensure successful migration of legacy system to Genesis API
-          - Built Selenium scripts to set up test data conditions using Web User Interface
-          - Automated test scripts using SoapUI Pro to validate REST Web Services' new and exisiting functionalites
-          - Validated updates made by the Web Service in databse using SoaupUI Pro, and on Web User Interface with Selenium scripts
-          - Built One-Touch Automation Framework using SoapUI Pro and Selennium
-          - <b>Technologies:</b> Java, REST API Testing, SQL, PL/SQL
-          - <b>Tools:</b> SoapUI Pro, Selenium Webdriver, Oracle 11g, SQL Developer, TestNG, log4j, Maven, Jenkins, MS Excel VBA
+          - Performed manual testing for each Web Services' functionality
+          - Automated all Web Services using SoapUI Pro for regression testing
+          - Added steps to validate updates made by Web Service into databases
+          - Desgined and integrated Selenium scripts to validate Splunk logs
+          - Built one-touch regression suite
+          - <b>Technologies:</b> Java, SOA API Testing, SQL, PL/SQL
+          - <b>Tools:</b> SoapUI Pro, Selenium Webdriver, Oracle 12c, SQL Developer, TestNG, log4j, Maven, Jenkins, MS Excel VBA
           
-        Web Services Validations for Mobile and Internet Banking 
+        Mobile Banking Application Testing 
                     
-          - <b>Domain:</b> Banking and Financial Services          
+          - <b>Domain:</b> Banking and Financial Services 
+          - Performed functional and UI testing for Mobile Banking application
+          - Used physical as well as cloud based Mobile and Tablet devices
+          - Designed selenium scripts to validate functionality in the desktop browsers
+          - <b>Technologies:</b> Java, SQL, PL/SQL
+          - <b>Tools:</b> Selenium Webdriver, Oracle 12c, SQL Developer, TestNG, log4j
    
      
 
