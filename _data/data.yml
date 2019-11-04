@@ -190,7 +190,7 @@ skills:
 
     toolset:
       - name: Python & Django
-        level: 98%
+        level: text
 
       - name: Javascript & jQuery
         level: 98%
