@@ -53,15 +53,10 @@ education:
       time: Jan 2018 - Dec 2019
       details: |
         
-          - GPA: 3.89 / 4.0
-          - Courses: <br>
-                - Programming for the Web <br>
-                - Game Development for Mobile Platforms <br>
-                - Big Data Technologies <br>
-                - Advanced Topics in Cloud Computing <br>
-                - Database Systems <br>
-                - Programming Languages <br>
-                - Design and Analysis of Algorithms <br>
+          - <b>GPA:</b> 3.89 / 4.0
+          - <b>Courses:</b> Programming for the Web, Game Development for Mobile Platforms, Big Data Technologies, 
+            &nbsp;&nbsp;&nbsp;Advanced Topics in Cloud Computing, Database Systems, Programming Languages, 
+            Design and Analysis of Algorithms <br>
                 - Computer Organization and Architecture <br>
                 - Operating Systems                     
                      
