@@ -54,9 +54,12 @@ education:
       details: |
         
           - GPA: 3.89
-          - Courses:
-                        - Programming for the Web \n
-                        - Game Development for Mobile Platforms 
+          - Courses: Programming for the Web <br>
+                     Game Development for Mobile Platforms <br>
+                     Big Data Technologies <br>
+                     Advanced Topics in Cloud Computing <br>
+                     
+                     
 
     - degree: B.Tech. in Computer Engineering
       university: Dr. B. A. T. University, Lonere, India
