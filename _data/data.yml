@@ -80,6 +80,23 @@ experiences:
           - <b>Technologies:</b> VB.NET, VB6, SQL, PL/SQL
           - <b>Tools:</b> Visual Studio, MS SQL Server, SQL Developer, MS Visio
 
+- role: Research Project Assistant
+      time: May 2019 - Present
+      company: SUNY Research Foundation, Binghamton University (Innovation Associates)
+      project: Software Migration
+      details: |        
+        Innovation Associates is leading firm in the Pharmacy Automation Solutions.
+        <br>At Innovation, I worked on designing Software System which pull data from existing Pharmacy Managment Software Systems, and auotomate prescriptions filling, collating and shipping process.
+          
+          - <b>Project:</b> Software Migration
+          - <b>Domain:</b> Healthcare
+          - Designed and developed RDLC reports and APIs for software interface of robotic prescription dispensing system                    
+          - Performed impact analysis and proposed new architecture to merge two different Pharmacy Software Solutions
+          - Assisted migration from Monolithic Architecture to Component Based Architecture
+          - Created stored procedures to seperate data layer from application layer                    
+          - <b>Technologies:</b> VB.NET, VB6, SQL, PL/SQL
+          - <b>Tools:</b> Visual Studio, MS SQL Server, SQL Developer, MS Visio
+
    
      
 
