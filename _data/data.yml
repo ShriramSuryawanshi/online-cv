@@ -69,17 +69,16 @@ experiences:
       time: May 2019 - Present
       company: SUNY Research Foundation, Binghamton University (Innovation Associates)
       details: |        
-        Innovation Associates is leading firm in the Pharmacy Automation Solutions having  
-        mission to help pharmacies optimize outcomes, whether it’s patient, process, or technology-related.<br>
-        Working on Software System which pull data from existing Pharmacy Managment Software Systems, and auotomate prescriptions filling, collating and shipping process.
+        Innovation Associates is leading firm in the Pharmacy Automation Solutions.
+        Innovation designs Software System which pull data from existing Pharmacy Managment Software Systems, and auotomate prescriptions filling, collating and shipping process.
           
           - <b>Responsibilities:</b><br>
-                    - Designed and developed RDLC reports and APIs in VB.NET for software interface of robotic prescription dispensing system
+                    - Designed and developed RDLC reports and APIs for software interface of robotic prescription dispensing system
                     <br>- Performed impact analysis and proposed new architecture to merge two different Pharmacy Software Solutions
                     <br>- Assisted migration from Monolithic Architecture to Component Based Architecture
                     
-          - Technologies Used: VB.NET, VB6, SQL, PL/SQL 
-          - Tools Used: Visual Studio, MS SQL Server, SQL Developer
+          - <b>Technologies:</b> VB.NET, VB6, SQL, PL/SQL 
+          - <b>Tools:</b> Visual Studio, MS SQL Server, SQL Developer, MS Visio
 
     - role: Test Analyst (Lead)
       time: July 2017 - Dec 2018
