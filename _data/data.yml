@@ -54,10 +54,10 @@ education:
       university: Binghamton University, SUNY
       time: Jan 2018 - Dec 2019
       details: |
-        MS in cs
-
-          - Programming for the Web
-          - Bullet point
+        
+          - GPA: 3.89
+          - Courses:
+                        - Programming for the Web
 
     - degree: B.Tech. in Computer Engineering
       university: Dr. B. A. T. University, Lonere, India
