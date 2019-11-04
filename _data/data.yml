@@ -53,7 +53,7 @@ education:
       time: Jan 2018 - Dec 2019
       details: |
         
-          - GPA: 3.89/4.0
+          - GPA: 3.89 / 4.0
           - Courses: <br>
                 - Programming for the Web <br>
                 - Game Development for Mobile Platforms <br>
@@ -72,19 +72,24 @@ education:
       time: Jun 2008 - May 2012
       details: |        
 
-          - GPA: 7.14/10.0          
+          - GPA: 7.14 / 10.0          
 
 experiences:
     - role: Research Project Assistant
       time: May 2019 - Present
       company: SUNY Research Foundation, Binghamton University (Innovation Associates)
-      details: |
-        Working as Research Project Assistant at Innovation Associates in Johnson City.
+      details: |        
         Innovation Associates is leading firm in the Pharmacy Automation Solutions having  
-        mission to help pharmacies optimize outcomes, whether it’s patient, process, or technology-related.
-        Responsibilities:
-          - Design API
-          - Bullet point
+        mission to help pharmacies optimize outcomes, whether it’s patient, process, or technology-related.<br>
+        Working on Software System which pull data from existing Pharmacy Managment Software Systems, and auotomate prescriptions filling, collating and shipping process.
+          
+          - Responsibilities:
+                    - Designed and developed RDLC reports and APIs in VB.NET for software interface of robotic prescription dispensing system
+                    - Performed impact analysis and proposed new architecture to merge two different Pharmacy Software Solutions
+                    - Assisted migration from Monolithic Architecture to Component Based Architecture
+                    
+          - Technologies Used: VB.NET, VB6, SQL, PL/SQL 
+          - Tools Used: Visual Studio, MS SQL Server, SQL Developer
 
     - role: Test Analyst (Lead)
       time: July 2017 - Dec 2018
