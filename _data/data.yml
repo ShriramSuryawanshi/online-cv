@@ -54,12 +54,12 @@ education:
       details: |
         
           - GPA: 3.89
-          - Courses: <ul>
-                     <li>Programming for the Web </li>
-                     <li>Game Development for Mobile Platforms </li>
-                     <li>Big Data Technologies </li>
-                     <li>Advanced Topics in Cloud Computing </li>
-                     </ul>
+          - Courses: <br>
+                    Programming for the Web <br>
+                    Game Development for Mobile Platforms <br>
+                    Big Data Technologies <br>
+                    Advanced Topics in Cloud Computing <br>
+                    
                      
                      
 
