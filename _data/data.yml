@@ -8,14 +8,14 @@ sidebar:
 
     # Profile information
     name: Shriram Suryawanshi
-    tagline: Full Stack Developer
+    tagline: 
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
+    email: shriram.3a@gmail.com
+    phone: (607) 304-0057
+    website:  #do not add http://
+    linkedin: www.linkedin.com/in/shriram-suryawanshi/
     github: sharu725
     gitlab:
     bitbucket:
