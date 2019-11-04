@@ -78,7 +78,7 @@ experiences:
           - <b>Technologies:</b> VB.NET, VB6, SQL, PL/SQL
           - <b>Tools:</b> Visual Studio, MS SQL Server, SQL Developer, MS Visio
 
-    - role: Test Analyst (lead)
+    - role: Test Analyst (Lead)
       time: July 2017 - Dec 2017
       company: Infosys Limited, Pune, India
       project: Web Services Automation
@@ -94,6 +94,21 @@ experiences:
           - <b>Technologies:</b> Java, REST API Testing, SQL, PL/SQL
           - <b>Tools:</b> SoapUI Pro, Selenium Webdriver, Oracle 11g, SQL Developer, TestNG, log4j, Maven, Jenkins, MS Excel VBA
  
+     - role: Test Analyst
+      time: Dec 2012 - Jun 2017
+      company: Coginzant Technology Soltuions, Pune, India
+      project: Web Services Automation
+      details: |        
+        Web Services Validations for Mobile and Internet Banking 
+                    
+          - <b>Domain:</b> Banking and Financial Services           
+          - Validated newly designed Web Services to ensure successful migration of legacy system to Genesis API
+          - Built Selenium scripts to set up test data conditions using Web User Interface
+          - Automated test scripts using SoapUI Pro to validate REST Web Services' new and exisiting functionalites
+          - Validated updates made by the Web Service in databse using SoaupUI Pro, and on Web User Interface with Selenium scripts
+          - Built One-Touch Automation Framework using SoapUI Pro and Selennium
+          - <b>Technologies:</b> Java, REST API Testing, SQL, PL/SQL
+          - <b>Tools:</b> SoapUI Pro, Selenium Webdriver, Oracle 11g, SQL Developer, TestNG, log4j, Maven, Jenkins, MS Excel VBA
    
      
 
