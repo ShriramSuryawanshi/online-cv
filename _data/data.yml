@@ -48,31 +48,31 @@ career-profile:
       Seeking role in challenging and healthy work environment where I can utilize and improvise my technical and analytical skills and can contribute efficiently for organizational and personal growth.
 
 education:
-    - degree: M.S. in Computer Science
-      university: Binghamton University, SUNY
+    - degree: Master of Science (MS) in Computer Science
+      university: Binghamton University, State University of New York
       time: Jan 2018 - Dec 2019
       details: |
         
           - GPA: 3.89/4.0
           - Courses: <br>
                 - Programming for the Web <br>
-                - Game Development for Mobile Platforms, Big Data Technologies, Advanced Topics in Cloud Computing, Database Systems, Programming Languages, Design and Analysis of Algorithms, Computer Architecture, Operating Systems 
-                    
+                - Game Development for Mobile Platforms <br>
+                - Big Data Technologies <br>
+                - Advanced Topics in Cloud Computing <br>
+                - Database Systems <br>
+                - Programming Languages <br>
+                - Design and Analysis of Algorithms <br>
+                - Computer Organization and Architecture <br>
+                - Operating Systems                     
                      
                      
 
-    - degree: B.Tech. in Computer Engineering
+    - degree: Bachelor pf Technology (B.Tech) in Computer Engineering
       university: Dr. B. A. T. University, Lonere, India
       time: Jun 2008 - May 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+      details: |        
 
-          - Bullet point
-          - Bullet point
+          - GPA: 7.14/10.0          
 
 experiences:
     - role: Research Project Assistant
