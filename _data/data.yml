@@ -77,6 +77,7 @@ experiences:
           - Created stored procedures to separate data layer from application layer                    
           - <b>Technologies:</b> VB.NET, VB6, SQL, PL/SQL
           - <b>Tools:</b> Visual Studio, MS SQL Server, SQL Developer, MS Visio
+          <br>
 
     - role: Test Analyst (Lead)
       time: July 2017 - Dec 2017
@@ -94,6 +95,7 @@ experiences:
           - Lead team of 6 associates
           - <b>Technologies:</b> Java, REST API Testing, SQL, PL/SQL
           - <b>Tools:</b> SoapUI Pro, Selenium Webdriver, Oracle 12c, SQL Developer, HP ALM, TestNG, log4j, Maven, Jenkins, MS Excel VBA
+          <br>
  
     - role: Test Analyst
       time: Dec 2012 - Jun 2017
@@ -125,14 +127,12 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      List of Academic Projects
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Mobile Application: TimeTracker
+        link: "#https://github.com/ShriramSuryawanshi/Android-TimeTracker"
+        tagline: " application which will help you track down how you spend your each day, on which activity you are spending your most of the time and how productive your day was."
 
       - title: DevStudio
         link: "#"
