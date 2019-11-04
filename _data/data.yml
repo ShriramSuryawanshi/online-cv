@@ -74,7 +74,7 @@ experiences:
           - Designed and developed RDLC reports and APIs for software interface of robotic prescription dispensing system                    
           - Performed impact analysis and proposed new architecture to merge two different Pharmacy Software Solutions
           - Assisted migration from Monolithic Architecture to Component Based Architecture
-          - Created stored procedures to seperate data layer from application layer                    
+          - Created stored procedures to separate data layer from application layer                    
           - <b>Technologies:</b> VB.NET, VB6, SQL, PL/SQL
           - <b>Tools:</b> Visual Studio, MS SQL Server, SQL Developer, MS Visio
 
@@ -88,8 +88,8 @@ experiences:
           - <b>Domain:</b> Telecommunications           
           - Validated newly designed Web Services to ensure successful migration of legacy system to Genesis API
           - Built Selenium scripts to set up test data conditions using Web User Interface
-          - Automated test scripts using SoapUI Pro to validate REST Web Services' new and exisiting functionalites
-          - Validated updates made by the Web Service in databse using SoaupUI Pro, and on Web User Interface with Selenium
+          - Automated test scripts using SoapUI Pro to validate REST Web Services' new and existing functionalities
+          - Validated updates made by the Web Service in database  using SoapUI Pro, and on Web User Interface with Selenium
           - Built One-Touch Automation Framework using SoapUI Pro and Selenium (CICD)
           - Lead team of 6 associates
           - <b>Technologies:</b> Java, REST API Testing, SQL, PL/SQL
@@ -97,7 +97,7 @@ experiences:
  
     - role: Test Analyst
       time: Dec 2012 - Jun 2017
-      company: Coginzant Technology Soltuions, Pune, India
+      company: Cognizant Technology Solutions, Pune, India
       project: Web Services Automation
       details: |        
         Web Services Testing for Mobile and Internet Banking 
@@ -106,7 +106,7 @@ experiences:
           - Performed manual testing for each Web Services' functionality
           - Automated all Web Services using SoapUI Pro for regression testing
           - Added steps to validate updates made by Web Service into databases
-          - Desgined and integrated Selenium scripts to validate Splunk logs
+          - Designed and integrated Selenium scripts with SoapUI automation suites to validate Splunk logs
           - Built one-touch regression suite
           - <b>Technologies:</b> Java, SOA API Testing, SQL, PL/SQL
           - <b>Tools:</b> SoapUI Pro, Selenium Webdriver, Oracle 12c, SQL Developer, Clear Quest, ADPART, TestNG, log4j, Maven, Jenkins, MS Excel VBA
