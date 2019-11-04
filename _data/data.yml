@@ -132,9 +132,9 @@ projects:
     assignments:
       - title: TimeTracker (Mobile Application)
         link: "#https://github.com/ShriramSuryawanshi/Android-TimeTracker"
-        tagline: " application which will help you track down how you spend your each day, on which activity you are spending your most of the time and how productive your day was."
+        tagline: "Application which will help you track down how you spend your each day, on which activity you are spending your most of the time and how productive your day was."
 
-      - title: DevStudio
+      - title: GraphGenerator (Mobile Application)
         link: "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
@@ -151,24 +151,51 @@ projects:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    title: Awards and Certifications
+    intro:
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Piller of the Month
+        authors: Cognizant Technology Sultions
+        conference: 
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Making the Difference
+        authors: Cognizant Technology Sultions
+        conference: 
 
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Cognizant Certified Professional in Software Testing
+        authors: Cognizant Technology Sultions
+        conference: 
+        
+        - title: Piller of the Month
+        authors: Cognizant Technology Sultions
+        conference: 
+
+      - title: Making the Difference
+        authors: Cognizant Technology Sultions
+        conference: 
+
+      - title: Cognizant Certified Professional in Software Testing
+        authors: Cognizant Technology Sultions
+        conference: 
+        
+          - title: Cognizant Certified Professional in Mobile Testing
+        authors: Cognizant Technology Sultions
+        conference: 
+        
+      - title: Cognizant Certified Professional in Defect Management
+        authors: Cognizant Technology Sultions
+        conference: 
+        
+      - title: Cognizant Certified Professional in Banking & Financial Services
+        authors: Cognizant Technology Sultions
+        conference: 
+        
+      - title: Cognizant Certified Professional in Retail Banking
+        authors: Cognizant Technology Sultions
+        conference: 
+       
+        
 
 skills:
     title: Skills &amp; Proficiency
