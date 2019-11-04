@@ -55,9 +55,7 @@ education:
         
           - <b>GPA:</b> 3.89 / 4.0
           - <b>Courses:</b> Programming for the Web, Game Development for Mobile Platforms, Big Data Technologies, Advanced Topics in Cloud Computing, Database Systems, Programming Languages, Design and Analysis of Algorithms, Computer Organization and Architecture, Operating Systems
-                     
-                     
-
+ 
     - degree: Bachelor of Technology (B.Tech) in Computer Engineering
       university: Dr. Babasaheb Ambedkar Technological University, Lonere, India (MH)
       time: Jun 2008 - May 2012
@@ -72,12 +70,12 @@ experiences:
         Innovation Associates is leading firm in the Pharmacy Automation Solutions.
         <br>Innovation designs Software System which pull data from existing Pharmacy Managment Software Systems, and auotomate prescriptions filling, collating and shipping process.
           
-          - <b>Responsibilities:</b><br>
-                    - Designed and developed RDLC reports and APIs for software interface of robotic prescription dispensing system                    
-                    - Performed impact analysis and proposed new architecture to merge two different Pharmacy Software Solutions
-                    <br>- Assisted migration from Monolithic Architecture to Component Based Architecture
-                    <br>- Created stored procedures to seperate data layer from application layer
-                    
+          - <b>Project:</b><br> Software Migration
+          - <b>Domain:</b> Healthcare
+          - Designed and developed RDLC reports and APIs for software interface of robotic prescription dispensing system                    
+          - Performed impact analysis and proposed new architecture to merge two different Pharmacy Software Solutions
+          - Assisted migration from Monolithic Architecture to Component Based Architecture
+          - Created stored procedures to seperate data layer from application layer                    
           - <b>Technologies:</b> VB.NET, VB6, SQL, PL/SQL 
           - <b>Tools:</b> Visual Studio, MS SQL Server, SQL Developer, MS Visio
 
@@ -115,19 +113,7 @@ experiences:
           - <b>Tools:</b> SoapUI Pro, Oracle 11g, SQL Developer, Selenium Webdriver, TestNG, log4j, MS Excel VBA, Maven, Jenkins
           - Bullet point
           
-      details: |
-      Web Service Autoamtion
-
-          - <b>Domain:</b> Healthcare
-          - <b>Responsibilities:</b><br>
-                    - Designed and developed RDLC reports and APIs for software interface of robotic prescription dispensing system                    
-                    - Performed impact analysis and proposed new architecture to merge two different Pharmacy Software Solutions
-                    <br>- Assisted migration from Monolithic Architecture to Component Based Architecture
-                    <br>- Created stored procedures to seperate data layer from application layer
-                    
-          - <b>Technologies:</b> Java, SOA and REST API Testing, SQL, PL/SQL
-          - <b>Tools:</b> SoapUI Pro, Oracle 11g, SQL Developer, Selenium Webdriver, TestNG, log4j, MS Excel VBA, Maven, Jenkins
-          - Bullet point
+     
 
 projects:
     title: Projects
