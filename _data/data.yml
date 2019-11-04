@@ -186,7 +186,7 @@ publications:
         
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Technical Skills
 
     toolset:
       - name: Web Technologies -
@@ -198,14 +198,20 @@ skills:
       - name: Database Technologies - 
         level: SQL, PL-SQL with Oracle and MS SQL Server, MongoDB
 
+      - name: Big Data Technologies - 
+        level: HDFS, MapReduce, Pig, Spark, Hive, HBase, Cassandra, MongoDB, Kafka, YARN, Tez
+        
+      - name: Cloud Technologies - 
+        level: Azure, GCP, Docker
+
       - name: Testing Technologies - 
-        level: Manual and Web Automation Testing, API Testing, Mobile Testing
+        level: Manual and Web Automation Testing, API Testing (SOA & REST), Mobile Testing
 
       - name: Testing Tools - 
         level: Selenium, SoapUI Pro, Cucumber, HP ALM, Clear Quest, DeviceAnywhere, ADPART
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Others -
+        level: TestNG, log4j, Maven, Jenkins, Git
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
