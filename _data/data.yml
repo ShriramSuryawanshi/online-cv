@@ -66,11 +66,12 @@ experiences:
     - role: Research Project Assistant
       time: May 2019 - Present
       company: SUNY Research Foundation, Binghamton University (Innovation Associates)
+      project: Software Migration
       details: |        
         Innovation Associates is leading firm in the Pharmacy Automation Solutions.
-        <br>Innovation designs Software System which pull data from existing Pharmacy Managment Software Systems, and auotomate prescriptions filling, collating and shipping process.
+        <br>At Innovation, we design Software System which pull data from existing Pharmacy Managment Software Systems, and auotomate prescriptions filling, collating and shipping process.
           
-          - <b>Project:</b><br> Software Migration
+          - <b>Project:</b> Software Migration
           - <b>Domain:</b> Healthcare
           - Designed and developed RDLC reports and APIs for software interface of robotic prescription dispensing system                    
           - Performed impact analysis and proposed new architecture to merge two different Pharmacy Software Solutions
@@ -82,9 +83,9 @@ experiences:
     - role: Test Analyst (Lead)
       time: July 2017 - Dec 2018
       company: Infosys Limited, Pune, India
-      details: |
-        Web Service Autoamtion
+      details: |     
 
+          - <b>Project:</b> Software Migration
           - <b>Domain:</b> Healthcare
           - <b>Responsibilities:</b><br>
                     - Designed and developed RDLC reports and APIs for software interface of robotic prescription dispensing system                    
