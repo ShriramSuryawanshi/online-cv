@@ -54,20 +54,16 @@ education:
       details: |
         
           - <b>GPA:</b> 3.89 / 4.0
-          - <b>Courses:</b> Programming for the Web, Game Development for Mobile Platforms, Big Data Technologies, 
-            &nbsp;&nbsp;&nbsp;Advanced Topics in Cloud Computing, Database Systems, Programming Languages, 
-            Design and Analysis of Algorithms <br>
-                - Computer Organization and Architecture <br>
-                - Operating Systems                     
+          - <b>Courses:</b> Programming for the Web, Game Development for Mobile Platforms, Big Data Technologies, Advanced Topics in Cloud Computing, Database Systems, Programming Languages, Design and Analysis of Algorithms, Computer Organization and Architecture, Operating Systems
                      
                      
 
-    - degree: Bachelor pf Technology (B.Tech) in Computer Engineering
-      university: Dr. B. A. T. University, Lonere, India
+    - degree: Bachelor of Technology (B.Tech) in Computer Engineering
+      university: Dr. Babasaheb Ambedkar Technological University, Lonere, India (MH)
       time: Jun 2008 - May 2012
       details: |        
 
-          - GPA: 7.14 / 10.0          
+          - <b>GPA:</b> 7.14 / 10.0          
 
 experiences:
     - role: Research Project Assistant
