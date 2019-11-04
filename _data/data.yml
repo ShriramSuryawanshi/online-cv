@@ -80,39 +80,7 @@ experiences:
           - <b>Technologies:</b> VB.NET, VB6, SQL, PL/SQL
           - <b>Tools:</b> Visual Studio, MS SQL Server, SQL Developer, MS Visio
 
-    - role: Test Analyst (Lead)
-      time: July 2017 - Dec 2018
-      company: Infosys Limited, Pune, India
-      details: |     
-           
-          - <b>Project:</b> Web Services Automation
-          - <b>Domain:</b> Telecommunications
-          - Validated newly designed Web Services to ensure successful migration of legacy system to Genesis API
-          - Built Selenium scripts to set up test data conditions using Web User Interface
-          - Automated test scripts using SoapUI Pro to validate REST Web Services' new and exisiting functionalites
-          - Added database validations to SoapUI automation scripts
-          - Validated updates done by the Web Service using Web User Interface with Selenium scripts 
-          - Built Automation Framework for using SoapUI Pro and Selennium with Maven and Jenkins for CICD pipelines
-          - <b>Technologies:</b> Java, REST API Testing, SQL, PL/SQL
-          - <b>Tools:</b> SoapUI Pro, Oracle 11g, SQL Developer, Selenium Webdriver, TestNG, log4j, MS Excel VBA, Maven, Jenkins          
-
-    - role: Test Analyst
-      time: Dec 2012 - Jun 2017
-      company: Coginzant Technology Solutions, Pune, India
-      details: |
-       Web Service Autoamtion
-
-          - <b>Domain:</b> Healthcare
-          - <b>Responsibilities:</b><br>
-                    - Designed and developed RDLC reports and APIs for software interface of robotic prescription dispensing system                    
-                    - Performed impact analysis and proposed new architecture to merge two different Pharmacy Software Solutions
-                    <br>- Assisted migration from Monolithic Architecture to Component Based Architecture
-                    <br>- Created stored procedures to seperate data layer from application layer
-                    
-          - <b>Technologies:</b> Java, SOA and REST API Testing, SQL, PL/SQL
-          - <b>Tools:</b> SoapUI Pro, Oracle 11g, SQL Developer, Selenium Webdriver, TestNG, log4j, MS Excel VBA, Maven, Jenkins
-          - Bullet point
-          
+   
      
 
 projects:
