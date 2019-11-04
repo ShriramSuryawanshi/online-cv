@@ -70,8 +70,7 @@ experiences:
       details: |        
         Innovation Associates is leading firm in the Pharmacy Automation Solutions.
         <br>At Innovation, I worked on designing Software System which pull data from existing Pharmacy Managment Software Systems, and auotomate prescriptions filling, collating and shipping process.
-          
-          - <b>Project:</b> Software Migration
+                    
           - <b>Domain:</b> Healthcare
           - Designed and developed RDLC reports and APIs for software interface of robotic prescription dispensing system                    
           - Performed impact analysis and proposed new architecture to merge two different Pharmacy Software Solutions
@@ -80,22 +79,22 @@ experiences:
           - <b>Technologies:</b> VB.NET, VB6, SQL, PL/SQL
           - <b>Tools:</b> Visual Studio, MS SQL Server, SQL Developer, MS Visio
 
-    - role: Research Project Assistant
-      time: May 2019 - Present
-      company: SUNY Research Foundation, Binghamton University (Innovation Associates)
-      project: Software Migration
+    - role: Test Analyst (lead)
+      time: July 2017 - Dec 2017
+      company: Infosys Limited, Pune, India
+      project: Web Services Automation
       details: |        
-        Innovation Associates is leading firm in the Pharmacy Automation Solutions.
-        <br>At Innovation, I worked on designing Software System which pull data from existing Pharmacy Managment Software Systems, and auotomate prescriptions filling, collating and shipping process.
-          
-          - <b>Project:</b> Software Migration
-          - <b>Domain:</b> Healthcare
-          - Designed and developed RDLC reports and APIs for software interface of robotic prescription dispensing system                    
-          - Performed impact analysis and proposed new architecture to merge two different Pharmacy Software Solutions
-          - Assisted migration from Monolithic Architecture to Component Based Architecture
-          - Created stored procedures to seperate data layer from application layer                    
-          - <b>Technologies:</b> VB.NET, VB6, SQL, PL/SQL
-          - <b>Tools:</b> Visual Studio, MS SQL Server, SQL Developer, MS Visio
+        
+                    
+          - <b>Domain:</b> Telecommunications
+          - Validated newly designed Web Services to ensure successful migration of legacy system to Genesis API
+          - Built Selenium scripts to set up test data conditions using Web User Interface
+          - Automated test scripts using SoapUI Pro to validate REST Web Services' new and exisiting functionalites
+          - Added database validations to SoapUI automation scripts
+          - Validated updates made by the Web Service using Web User Interface with Selenium scripts
+          - Built One-Touch Automation Framework using SoapUI Pro and Selennium, which was used to create required test data conditions, validate Web Service functionality, validate the database and Web UI
+          - <b>Technologies:</b> Java, REST API Testing, SQL, PL/SQL
+          - <b>Tools:</b> SoapUI Pro, Oracle 11g, SQL Developer, Selenium Webdriver, TestNG, log4j, MS Excel VBA, Maven, Jenkins  
 
    
      
