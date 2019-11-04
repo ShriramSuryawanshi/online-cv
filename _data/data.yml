@@ -126,8 +126,8 @@ experiences:
 
 projects:
     title: Projects
-    intro: >
-      List of Academic Projects
+    intro: 
+     
 
     assignments:
       - title: TimeTracker (Mobile Application)
