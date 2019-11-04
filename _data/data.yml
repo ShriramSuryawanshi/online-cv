@@ -93,7 +93,7 @@ experiences:
           - Built One-Touch Automation Framework using SoapUI Pro and Selenium (CICD)
           - Lead team of 6 associates
           - <b>Technologies:</b> Java, REST API Testing, SQL, PL/SQL
-          - <b>Tools:</b> SoapUI Pro, Selenium Webdriver, Oracle 12c, SQL Developer, TestNG, log4j, Maven, Jenkins, MS Excel VBA
+          - <b>Tools:</b> SoapUI Pro, Selenium Webdriver, Oracle 12c, SQL Developer, HP ALM, TestNG, log4j, Maven, Jenkins, MS Excel VBA
  
     - role: Test Analyst
       time: Dec 2012 - Jun 2017
@@ -109,16 +109,16 @@ experiences:
           - Desgined and integrated Selenium scripts to validate Splunk logs
           - Built one-touch regression suite
           - <b>Technologies:</b> Java, SOA API Testing, SQL, PL/SQL
-          - <b>Tools:</b> SoapUI Pro, Selenium Webdriver, Oracle 12c, SQL Developer, TestNG, log4j, Maven, Jenkins, MS Excel VBA
+          - <b>Tools:</b> SoapUI Pro, Selenium Webdriver, Oracle 12c, SQL Developer, Clear Quest, ADPART, TestNG, log4j, Maven, Jenkins, MS Excel VBA
           
         Mobile Banking Application Testing 
                     
           - <b>Domain:</b> Banking and Financial Services 
           - Performed functional and UI testing for Mobile Banking application
           - Used physical as well as cloud based Mobile and Tablet devices
-          - Designed selenium scripts to validate functionality in the desktop browsers
+          - Designed selenium scripts to validate banking functionalities in the desktop browsers
           - <b>Technologies:</b> Java, SQL, PL/SQL
-          - <b>Tools:</b> Selenium Webdriver, Oracle 12c, SQL Developer, TestNG, log4j
+          - <b>Tools:</b> Selenium Webdriver, Oracle 12c, SQL Developer, TestNG, log4j, DeviceAnywhere, ClearQuest, ADPART
    
      
 
