@@ -189,20 +189,20 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: text
+      - name: Web Technologies -
+        level: JavaScript, Node.js, HTML5, CSS3, Bootstrap4, JQuery, Express.js, SOA/REST API, JSON, Mustache Templates
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Programming Languages - 
+        level: Java, VB.NET, C++, C, VB6, Groovy
 
-      - name: Angular
-        level: 98%
+      - name: Database Technologies - 
+        level: SQL, PL-SQL with Oracle and MS SQL Server, MongoDB
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Testing Technologies - 
+        level: Manual and Web Automation Testing, API Testing, Mobile Testing
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Testing Tools - 
+        level: Selenium, SoapUI Pro, Cucumber, HP ALM, Clear Quest, DeviceAnywhere, ADPART
 
       - name: Sketch & Photoshop
         level: 60%
