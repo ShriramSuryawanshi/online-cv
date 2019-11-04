@@ -189,28 +189,28 @@ skills:
     title: Technical Skills
 
     toolset:
-      - name: Web Technologies -
+      - name: Web Technologies
         level: JavaScript, Node.js, HTML5, CSS3, Bootstrap4, JQuery, Express.js, SOA, REST, JSON
 
-      - name: Programming Languages - 
+      - name: Programming Languages 
         level: Java, VB.NET, C++, C, VB6, Groovy
 
-      - name: Database Technologies - 
+      - name: Database Technologies
         level: SQL, PL-SQL with Oracle and MS SQL Server, MongoDB
 
-      - name: Big Data Technologies - 
+      - name: Big Data Technologies
         level: HDFS, MapReduce, Pig, Spark, Hive, HBase, Cassandra, MongoDB, Kafka, YARN, Tez
         
-      - name: Cloud Technologies - 
+      - name: Cloud Technologies
         level: Azure, GCP, Docker
 
-      - name: Testing Technologies - 
+      - name: Testing Technologies
         level: Manual and Web Automation Testing, API Testing (SOA & REST), Mobile Testing
 
-      - name: Testing Tools - 
+      - name: Testing Tools 
         level: Selenium, SoapUI Pro, Cucumber, HP ALM, Clear Quest, DeviceAnywhere, ADPART
 
-      - name: Others -
+      - name: Others
         level: TestNG, log4j, Maven, Jenkins, Git
 
 footer: >
