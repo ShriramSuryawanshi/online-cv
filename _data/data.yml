@@ -131,11 +131,11 @@ projects:
 
     assignments:
       - title: TinyURL
-        link: "<b>Technologies Used: </b>JavaScript, Node.js, REST API, MongoDB, Mustache, HTML"
-        tagline: "Web Application to create short version of URLs. Application provides functionalities like addinng new URL to system, keep access count, enable/disble URL, delete URL."
+        link: "JavaScript, Node.js, REST API, MongoDB, Mustache, HTML"
+        tagline: "Web Application to create short URLs. It provides functionalities like add new URL to system, query using short URL as well as long URL, keep access count, enable/disble URL, delete URL."
 
       - title: TimeTracker (Mobile Application)
-        link: "https://github.com/ShriramSuryawanshi/Android-TimeTracker"
+        link: "Android, Java"
         tagline: "Application which will help you track down how you spend your each day, on which activity you are spending your most of the time and how productive your day was."
 
       - title: Tempo
