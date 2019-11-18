@@ -22,12 +22,11 @@
       <span class="project-title">        
         {{ project.title }}                
       </span>
-  
-      {{ project.link }}
-      
-      {% if project.tagline %}
-      - <span class="project-tagline">{{ project.tagline }}</span>
-      {% endif %}
+      <ul>
+        <li><span class="project-tagline">{{ project.tagline }}</li>
+        <li>{{ project.link }}</li>
+      </ul>
+            
 
     </div><!--//item-->
   {% endfor %}
