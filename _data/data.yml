@@ -137,6 +137,7 @@ projects:
       - title: Time Tracker
         link: "Android, Java"
         tagline: "Mobile Application which will help you track how you spend your each day, on which activity you are spending your most of the time."
+        url: "https://shriramsuryawanshi.github.io/online-cv/"
 
       - title: Grpah Generator
         link: "Android, Java, Google Cloud Platform (GCP)"
