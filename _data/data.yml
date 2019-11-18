@@ -137,23 +137,27 @@ projects:
       - title: Time Tracker
         link: "Android, Java"
         tagline: "Mobile Application which will help you track how you spend your each day, on which activity you are spending your most of the time."
-        url: "https://shriramsuryawanshi.github.io/online-cv/"
+        url: "https://www.youtube.com/watch?v=I_UGHSClrqo"
 
       - title: Grpah Generator
         link: "Android, Java, Google Cloud Platform (GCP)"
-        tagline: "Mobile application having client-server architecture to generate graphs, graph details can be provided manually or in DOT language, and you will get graph image. "
+        tagline: "Mobile application having client-server architecture to generate graphs, graph details can be provided manually or in DOT language, and you will get graph image."
+        url: "https://www.youtube.com/watch?v=LQvwdtW5jnE"      
 
       - title: Cavern Fighter
         link: "Android/iOS, Unity, C#"
         tagline: "This is the android/iOS game built using Unity. You will fight against the enemies within the cave to find your escape ruote."
+        url: "https://www.youtube.com/watch?v=VXxA-fxs3ck"
 
       - title: Collect the Coins
         link: "Android, Java"
         tagline: "Android game, collect coins having different values based on how new it is, and keep urself away from getting hurt from explosing coins."
+        url: "https://www.youtube.com/watch?v=ReL_8h9NWjg"
 
       - title: 2048 Puzzale
         link: "Android, Java"
-        tagline: "This is the classic 2048 number puzzle game!	You have to join the numbers and get 2048 on the tile."        
+        tagline: "This is the classic 2048 number puzzle game!	You have to join the numbers and get 2048 on the tile." 
+        url: "https://www.youtube.com/watch?v=8sV7poPltMY"
 
 
 
