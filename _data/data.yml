@@ -150,9 +150,10 @@ projects:
         link: "Android, Java"
         tagline: "This is simple android game in which you have to collect coins having different values based on how new it is, and keep urself away from getting hurt from explosing coins."
 
-      - title: Time Tracker
+      - title: 2048 Puzzale
         link: "Android, Java"
-        tagline: "Application which will help you track how you spend your each day, on which activity you are spending your most of the time and how productive your day was."
+        tagline: "This is the classic 2048 number puzzle game!	You have to join the numbers and get 2048 on the tile."
+        url: "www.google.com"
 
       - title: Grpah Generator"
         link: "Android, Java, Google Cloud Platform (GCP)"
