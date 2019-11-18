@@ -134,9 +134,13 @@ projects:
         link: "JavaScript, Node.js, REST API, MongoDB, Mustache, HTML"
         tagline: "Web Application to create short URLs. It provides functionalities like add new URL to system, query using short URL as well as long URL, keep access count, enable/disble URL, delete URL."
 
-      - title: (Mobile Application)
-        link: "Android, Java"
-        tagline: "Application which will help you track down how you spend your each day, on which activity you are spending your most of the time and how productive your day was."
+      - title: Mobile Applications
+        link: "<ul><li>Time Tracker: Application which will help you track down how you spend your each day, on which activity you are spending your most of the time and how productive your day was.<li>
+                <li>Graph Generator: Web based mobile application to create simple graphs using DOT language or by providing details using dropdowns.</li>
+        
+        
+        </ul>"
+        tagline: ""
 
       - title: Tempo
         link: ""
