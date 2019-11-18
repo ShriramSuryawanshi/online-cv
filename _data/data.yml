@@ -139,8 +139,27 @@ projects:
         tagline: "Application which will help you track how you spend your each day, on which activity you are spending your most of the time and how productive your day was."
 
       - title: Grpah Generator"
-        link: "This is the android application to generate graphs.  It has client-server architecture, where this application works as client and we're hosting the lightweight Java based HTTP server on Google Cloud Platform. You have to options to create your graph - Using the dot language representation or manually providing information about nodes and connection"
-        tagline: "Android, Java, Google Cloud Platform (GCP)"
+        link: "Android, Java, Google Cloud Platform (GCP)"
+        tagline: "This is the android application to generate graphs.  It has client-server architecture, where this application works as client and we're hosting the lightweight Java based HTTP server on Google Cloud Platform. You have to options to create your graph - Using the dot language representation or manually providing information about nodes and connection"
+
+      - title: Cavern Fighter
+        link: "Android/iOS, Unity, C#"
+        tagline: "This is the android/iOS game built using Unity."
+
+      - title: Collect the Coins"
+        link: "Android, Java"
+        tagline: "This is simple android game in which you have to collect coins having different values based on how new it is, and keep urself away from getting hurt from explosing coins.
+
+      - title: Time Tracker
+        link: "Android, Java"
+        tagline: "Application which will help you track how you spend your each day, on which activity you are spending your most of the time and how productive your day was."
+
+      - title: Grpah Generator"
+        link: "Android, Java, Google Cloud Platform (GCP)"
+        tagline: "This is the android application to generate graphs.  It has client-server architecture, where this application works as client and we're hosting the lightweight Java based HTTP server on Google Cloud Platform. You have to options to create your graph - Using the dot language representation or manually providing information about nodes and connection"
+
+
+
 
 publications:
     title: Awards and Certifications
