@@ -53,7 +53,7 @@ education:
       time: Jan 2018 - Dec 2019
       details: |
         
-          - <b>GPA:</b> 3.89 / 4.0
+          - <b>GPA:</b> 3.88 / 4.0
           - <b>Courses:</b> Programming for the Web, Game Development for Mobile Platforms, Big Data Technologies, Advanced Topics in Cloud Computing, Database Systems, Programming Languages, Design and Analysis of Algorithms, Computer Organization and Architecture, Operating Systems
  
     - degree: Bachelor of Technology (B.Tech) in Computer Engineering
@@ -193,16 +193,10 @@ skills:
         level: JavaScript, Node.js, HTML5, CSS3, Bootstrap4, JQuery, Express.js, SOA, REST, JSON, Mustache
 
       - name: Programming Languages 
-        level: Java, VB.NET, C++, C, VB6, Groovy
+        level: Java, VB.NET, C++, C, VB6
 
       - name: Database Technologies
         level: SQL, PL-SQL with Oracle and MS SQL Server, MongoDB
-
-      - name: Big Data Technologies
-        level: HDFS, MapReduce, Pig, Spark, Hive, HBase, Cassandra, MongoDB, Kafka, YARN, Tez
-        
-      - name: Cloud Technologies
-        level: Azure, GCP, Docker
 
       - name: Testing Technologies
         level: Manual and Web Automation Testing, API Testing (SOA & REST), Mobile Testing
