@@ -134,6 +134,10 @@ projects:
         link: "JavaScript, Node.js, REST API, MongoDB, Mustache, HTML"
         tagline: "Web Application to create short URLs. It provides functionalities like add new URL to system, query using short URL as well as long URL, keep access count, enable/disble URL, delete URL."
 
+      - title: Student Managment System
+        link: "Java, SQL, Pl/SQL, Java AWT and Swing, Oracle, JDBC"
+        tagline: "Implemented various PL/SQL stored procedures, sequences, triggers to perform basic University operations and integrated with attractive GUI with help of Swing and AWT components of Java."        
+        
       - title: Time Tracker
         link: "Android, Java"
         tagline: "Mobile Application which will help you track how you spend your each day, on which activity you are spending your most of the time."
@@ -158,7 +162,15 @@ projects:
         link: "Android, Java"
         tagline: "This is the classic 2048 number puzzle game!	You have to join the numbers and get 2048 on the tile." 
         url: "https://www.youtube.com/watch?v=8sV7poPltMY"
-
+        
+      - title: CPU Simulator
+        link: "Java"
+        tagline: "Implemented CPU optimization techniques (forwarding, issue queue, reorder buffer, branch predictor etc.) for instruction level parallelism and pipelining." 
+       
+      - title: Steganography
+        link: "Java"
+        tagline: "Developed Java based application to embed encrypted textual messages in image, audio and video carrier files without causing any distortions to original file." 
+        
 
 
 publications:
