@@ -90,7 +90,7 @@ experiences:
           - Validated newly designed Web Services to ensure successful migration of legacy system to Genesis API
           - Built Selenium scripts to set up test data conditions using Web User Interface
           - Automated test scripts using SoapUI Pro to validate REST Web Services' new and existing functionalities
-          - Validated updates made by the Web Service in database  using SoapUI Pro, and on Web User Interface with Selenium
+          - Validated updates made by the Web Service in database using SoapUI Pro, and on Web User Interface with Selenium
           - Built One-Touch Automation Framework using SoapUI Pro and Selenium (CICD)
           - Lead team of 6 associates
           - <b>Technologies:</b> Java, REST API Testing, SQL, PL/SQL
@@ -120,7 +120,7 @@ experiences:
           - Used physical as well as cloud based Mobile and Tablet devices
           - Designed selenium scripts to validate banking functionalities in the desktop browsers
           - <b>Technologies:</b> Java, SQL, PL/SQL
-          - <b>Tools:</b> Selenium Webdriver, Oracle 12c, SQL Developer, TestNG, log4j, DeviceAnywhere, ClearQuest, ADPART
+          - <b>Tools:</b> Selenium Webdriver, Oracle 12c, SQL Developer, TestNG, log4j, Device Anywhere, ClearQuest, ADPART
    
      
 
@@ -132,35 +132,35 @@ projects:
     assignments:
       - title: TinyURL
         link: "JavaScript, Node.js, REST API, MongoDB, Mustache, HTML"
-        tagline: "Web Application to create short URLs. It provides functionalities like add new URL to system, query using short URL as well as long URL, keep access count, enable/disble URL, delete URL."
+        tagline: "Web Application to create short URLs. It provides functionalities like add new URL to system, query using short URL as well as long URL, keep access count, enable/disable URL, delete URL."
 
-      - title: Student Managment System
+      - title: Student Management System
         link: "Java, SQL, Pl/SQL, Java AWT and Swing, Oracle, JDBC"
         tagline: "Implemented various PL/SQL stored procedures, sequences, triggers to perform basic University operations and integrated with attractive GUI with help of Swing and AWT components of Java."        
         
       - title: Time Tracker
         link: "Android, Java"
-        tagline: "Mobile Application which will help you track how you spend your each day, on which activity you are spending your most of the time."
+        tagline: "Mobile Application which will help you track how you spend each day, on which activity you are spending most of the time etc."
         url: "https://www.youtube.com/watch?v=I_UGHSClrqo"
 
-      - title: Grpah Generator
+      - title: Graph Generator
         link: "Android, Java, Google Cloud Platform (GCP)"
         tagline: "Mobile application having client-server architecture to generate graphs, graph details can be provided manually or in DOT language, and you will get graph image."
         url: "https://www.youtube.com/watch?v=LQvwdtW5jnE"      
 
       - title: Cavern Fighter
         link: "Android/iOS, Unity, C#"
-        tagline: "This is the android/iOS game built using Unity. You will fight against the enemies within the cave to find your escape ruote."
+        tagline: "This is the android/iOS game built using Unity. You will fight against the enemies within the cave to find your escape route."
         url: "https://www.youtube.com/watch?v=VXxA-fxs3ck"
 
       - title: Collect the Coins
         link: "Android, Java"
-        tagline: "Android game, collect coins having different values based on how new it is, and keep urself away from getting hurt from explosing coins."
+        tagline: "Android game, collect coins having different values based on how new it is, and stay away from exploding coins."
         url: "https://www.youtube.com/watch?v=ReL_8h9NWjg"
 
-      - title: 2048 Puzzale
+      - title: 2048 Puzzle
         link: "Android, Java"
-        tagline: "This is the classic 2048 number puzzle game!	You have to join the numbers and get 2048 on the tile." 
+        tagline: "This is the classic 2048 number puzzle game! You should join the numbers tile and get 2048 on the tile." 
         url: "https://www.youtube.com/watch?v=8sV7poPltMY"
         
       - title: CPU Simulator
@@ -178,32 +178,32 @@ publications:
     intro:
 
     papers:
-      - title: Piller of the Month
-        authors: Cognizant Technology Sultions
+      - title: Pillar of the Month
+        authors: Cognizant Technology Solutions
         conference: 
 
       - title: Making the Difference
-        authors: Cognizant Technology Sultions
+        authors: Cognizant Technology Solutions
         conference: 
 
       - title: Cognizant Certified Professional in Software Testing
-        authors: Cognizant Technology Sultions
+        authors: Cognizant Technology Solutions
         conference: 
 
       - title: Cognizant Certified Professional in Mobile Testing
-        authors: Cognizant Technology Sultions
+        authors: Cognizant Technology Solutions
         conference: 
         
       - title: Cognizant Certified Professional in Defect Management
-        authors: Cognizant Technology Sultions
+        authors: Cognizant Technology Solutions
         conference: 
         
       - title: Cognizant Certified Professional in Banking & Financial Services
-        authors: Cognizant Technology Sultions
+        authors: Cognizant Technology Solutions
         conference: 
         
       - title: Cognizant Certified Professional in Retail Banking
-        authors: Cognizant Technology Sultions
+        authors: Cognizant Technology Solutions
         conference: 
        
         
@@ -213,7 +213,7 @@ skills:
 
     toolset:
       - name: Web Technologies
-        level: JavaScript, Node.js, HTML5, CSS3, Bootstrap4, JQuery, Express.js, SOA, REST, JSON, Mustache
+        level: JavaScript, Node.js, HTML5, CSS3, Bootstrap4, jQuery, Express.js, SOA, REST, JSON, Mustache
 
       - name: Programming Languages 
         level: Java, VB.NET, C++, C, VB6
