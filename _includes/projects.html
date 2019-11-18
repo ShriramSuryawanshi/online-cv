@@ -24,10 +24,10 @@
       </span>
       <ul>
         <li><span class="project-tagline">{{ project.tagline }}</li>
-        <li>{{ project.link }}</li>
+        <li>{{ project.link }}
         {% if project.url %}
-        <li><a href="{{ project.url }}">Demo URL</a></li>
-         {% endif %}
+        <a href="{{ project.url }}">(Demo Video)</a>
+          {% endif %}</li>
       </ul>
             
 
