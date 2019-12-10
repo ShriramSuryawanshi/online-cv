@@ -134,6 +134,10 @@ projects:
         link: "JavaScript, Node.js, REST API, MongoDB, Mustache, HTML"
         tagline: "Web Application to create short URLs. It provides functionalities like add new URL to system, query using short URL as well as long URL, keep access count, enable/disable URL, delete URL."
 
+      - title: GraphViz
+        link: "GCP, Kubernetes, Docker, YAML"
+        tagline: "Application takes DOT language inputs and generates grpahs using application deployed on GCP, with Microservices architecture and Kubernetes."
+      
       - title: Student Management System
         link: "Java, SQL, Pl/SQL, Java AWT and Swing, Oracle, JDBC"
         tagline: "Implemented various PL/SQL stored procedures, sequences, triggers to perform basic University operations and integrated with attractive GUI with help of Swing and AWT components of Java."        
@@ -171,6 +175,10 @@ projects:
         link: "Java"
         tagline: "Developed Java based application to embed encrypted textual messages in image, audio and video carrier files without causing any distortions to original file." 
         
+      - title: CIntax
+        link: "Java"
+        tagline: "Built application to conduct university level C programming language competition." 
+        
 
 
 publications:
@@ -178,6 +186,10 @@ publications:
     intro:
 
     papers:
+      - title: Ultimate Hands-on-Hadoop
+        authors: Udemy
+        conference: 
+
       - title: Pillar of the Month
         authors: Cognizant Technology Solutions
         conference: 
@@ -213,13 +225,16 @@ skills:
 
     toolset:
       - name: Web Technologies
-        level: JavaScript, Node.js, HTML5, CSS3, Bootstrap4, jQuery, Express.js, SOA, REST, JSON, Mustache
+        level: JavaScript, Node.js, HTML, CSS, Bootstrap, jQuery, Express, SOA, REST, JSON, React, Mustache
 
       - name: Programming Languages 
         level: Java, VB.NET, C++, C, VB6
 
       - name: Database Technologies
         level: SQL, PL-SQL with Oracle and MS SQL Server, MongoDB
+
+      - name: Cloud and Big Data
+        level: GCP, Docker, HDFS, MapReduce, Pig, Hive, Cassandra, Kafka, Spark, YARN, Storm, Zookeeper
 
       - name: Testing Technologies
         level: Manual and Web Automation Testing, API Testing (SOA & REST), Mobile Testing
