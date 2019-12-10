@@ -132,15 +132,15 @@ projects:
     assignments:
       - title: TinyURL
         link: "JavaScript, Node.js, REST API, MongoDB, Mustache, HTML"
-        tagline: "Web Application to create short URLs. It provides functionalities like add new URL to system, query using short URL as well as long URL, keep access count, enable/disable URL, delete URL."
+        tagline: "Web Application to create short URLs and to provide functionalities like add new URL to system, query using short URL as well as long URL, keep access count, enable/disable URL, delete URL"
 
       - title: GraphViz
         link: "GCP, Kubernetes, Docker, YAML"
-        tagline: "Application takes DOT language inputs and generates grpahs using application deployed on GCP, with Microservices architecture and Kubernetes."
+        tagline: "Application takes DOT language inputs and generates grpahs using application deployed on GCP, with Microservices architecture and Kubernetes"
       
       - title: Student Management System
         link: "Java, SQL, Pl/SQL, Java AWT and Swing, Oracle, JDBC"
-        tagline: "Implemented various PL/SQL stored procedures, sequences, triggers to perform basic University operations and integrated with attractive GUI with help of Swing and AWT components of Java."        
+        tagline: "Implemented various PL/SQL stored procedures, sequences, triggers to perform basic University operations and integrated with attractive GUI with help of Swing and AWT components of Java"        
         
       - title: Time Tracker
         link: "Android, Java"
@@ -149,35 +149,35 @@ projects:
 
       - title: Graph Generator
         link: "Android, Java, Google Cloud Platform (GCP)"
-        tagline: "Mobile application having client-server architecture to generate graphs, graph details can be provided manually or in DOT language, and you will get graph image."
+        tagline: "Mobile application having client-server architecture to generate graphs, graph details can be provided manually or in DOT language, and you will get graph image"
         url: "https://www.youtube.com/watch?v=LQvwdtW5jnE"      
 
       - title: Cavern Fighter
         link: "Android/iOS, Unity, C#"
-        tagline: "This is the android/iOS game built using Unity. You will fight against the enemies within the cave to find your escape route."
+        tagline: "This is the android/iOS game built using Unity in which you will fight against the enemies within the cave to find your escape route"
         url: "https://www.youtube.com/watch?v=VXxA-fxs3ck"
 
       - title: Collect the Coins
         link: "Android, Java"
-        tagline: "Android game, collect coins having different values based on how new it is, and stay away from exploding coins."
+        tagline: "Android game, collect coins having different values based on how new it is, and stay away from exploding coins"
         url: "https://www.youtube.com/watch?v=ReL_8h9NWjg"
 
       - title: 2048 Puzzle
         link: "Android, Java"
-        tagline: "This is the classic 2048 number puzzle game! You should join the numbers tile and get 2048 on the tile." 
+        tagline: "This is the classic 2048 number puzzle game! You should join the numbers tile and get 2048 on the tile" 
         url: "https://www.youtube.com/watch?v=8sV7poPltMY"
         
       - title: CPU Simulator
         link: "Java"
-        tagline: "Implemented CPU optimization techniques (forwarding, issue queue, reorder buffer, branch predictor etc.) for instruction level parallelism and pipelining." 
+        tagline: "Implemented CPU optimization techniques (forwarding, issue queue, reorder buffer, branch predictor etc.) for instruction level parallelism and pipelining" 
        
       - title: Steganography
         link: "Java"
-        tagline: "Developed Java based application to embed encrypted textual messages in image, audio and video carrier files without causing any distortions to original file." 
+        tagline: "Developed Java based application to embed encrypted textual messages in image, audio and video carrier files without causing any distortions to original file"
         
       - title: CIntax
         link: "Java"
-        tagline: "Built application to conduct university level C programming language competition." 
+        tagline: "Built application to conduct university level C programming language competition" 
         
 
 
